@@ -1,0 +1,27 @@
+body {
+text-align: center;
+font-family: 'Comic Sans MS', cursive;
+background: linear-gradient(#ffd6e8, #fff);
+overflow: hidden;
+}
+
+h1 {
+font-size: 36px;
+color: #ff2f92;
+}
+
+.buttons {
+margin-top: 20px;
+}
+
+button {
+padding: 14px 28px;
+font-size: 18px;
+border-radius: 25px;
+border: none;
+cursor: pointer;
+}
+
+#noBtn {
+position: absolute;
+}
